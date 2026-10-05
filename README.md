@@ -11,7 +11,7 @@
 
 A data-science study of Bangladesh's financial system. It looks at both sides of the market: the **people** who need financial services, and the **banks and NBFIs** that provide them. It uses only real, public data, and it runs free in Google Colab with no API keys or logins.
 
-![Executive dashboard](figures/C1_executive_dashboard.png)
+
 
 ---
 
@@ -60,7 +60,7 @@ Before that, I rebuilt the early-warning model using **only share prices up to 3
 
 The market already had doubts about these banks, so the model didn't uncover anything secret. What it shows is that a simple, automatic screen would have put exactly these five banks at the top of a risk list before the regulator acted.
 
-![Merger back-test](figures/B3_merger_backtest.png)
+
 
 ---
 
@@ -85,14 +85,6 @@ The market already had doubts about these banks, so the model didn't uncover any
 
 ---
 
-## Charts
-
-| | |
-|---|---|
-| ![Trends](figures/A1_bangladesh_trends.png) | ![Gaps](figures/A2_inclusion_gaps.png) |
-| ![Market sizing](figures/A3_market_sizing.png) | ![Reasons](figures/A4_reasons_and_coping.png) |
-| ![Peer groups](figures/A5_peer_groups.png) | ![Inclusion gap](figures/A6_inclusion_gap.png) |
-| ![Lender map](figures/B1_lender_map.png) | ![Distress scores](figures/B2_distress_scores.png) |
 
 ---
 
