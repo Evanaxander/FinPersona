@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33055737/README.md)
+
 # FinPersona Bangladesh
 
 ### Who is left out of Bangladesh's financial system, and which lenders are at risk?
